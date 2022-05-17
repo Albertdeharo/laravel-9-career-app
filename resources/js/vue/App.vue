@@ -1,5 +1,6 @@
 <template>
     <h1>{{ title }}</h1>
+    <h2>Albert de Haro</h2>
 </template>
 <script>
 export default {
